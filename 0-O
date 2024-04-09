@@ -1,0 +1,3 @@
+best case = O(N)
+avg case = O(N^2)
+worst case = O(N^2)
